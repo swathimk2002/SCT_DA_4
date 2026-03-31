@@ -64,5 +64,5 @@ This project shows that focusing on ROI rather than just conversions leads to be
 ---
 
 ##  Author  
-**[Swathi M K]**  
+**Swathi M K**  
 Data Analyst Intern – SkillCraft Technology  
